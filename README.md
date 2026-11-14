@@ -25,3 +25,8 @@ Ozi Ozi no necesita código para existir. La tecnología es una de sus posibles 
 ## Participación
 
 Se aceptan ideas, ejemplos, preguntas y correcciones con fuentes. Para contribuir, consulta [CONTRIBUTING.md](CONTRIBUTING.md). La licencia de una obra concreta, la autoría y los derechos de terceros deben revisarse de forma independiente; la presencia de una licencia no convierte automáticamente una expresión cultural en propiedad exclusiva.
+<!--
+  EASTER EGG: El segundo Ozi no está repitiendo el primero: está contestando.
+  Si encontraste esta nota, deja un Ozi Ozi en el registro de cambios.
+  — El Consejo Secreto de la Tostada (ficción; las migas no son evidencia histórica).
+-->
