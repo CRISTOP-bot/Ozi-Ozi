@@ -1,309 +1,474 @@
 OZI OZI
-Documento cultural, conceptual y práctico
-Edición fundacional — 2026
-Estado: propuesta cultural abierta; no es una norma lingüística oficial.
+Enciclopedia cultural, lingüística y práctica
+Edición ampliada — 2026
 
-Nota de lectura
+ESTADO EDITORIAL
 
-Ozi Ozi se presenta aquí como un concepto cultural de creación contemporánea. Este documento desarrolla una interpretación original y propone una tradición compartida; no afirma que exista una historia antigua, una comunidad histórica documentada ni un origen lingüístico comprobado. Cuando el texto juega a narrar un pasado, lo identifica como mitología de Ozi Ozi. La diferencia importa: imaginar es legítimo; disfrazar la imaginación de archivo no lo es.
+Este documento organiza y desarrolla una interpretación contemporánea de Ozi Ozi como concepto cultural abierto. No es una autoridad académica, una gramática oficial ni una investigación histórica exhaustiva. Sus propuestas se identifican como tales. La expresión puede tener usos independientes que este documento desconozca; si se documentan, deberán estudiarse con sus fuentes y contexto, no absorberse automáticamente como parte de una sola tradición.
+
+GUÍA PARA LEER LAS AFIRMACIONES
+
+• Hecho conocido en este documento: un dato comprobable directamente en los materiales y registros que se indican, o una observación lingüística general descrita con cautela. Aquí, por ejemplo, puede afirmarse que el presente texto define y propone usos de Ozi Ozi; no que haya descubierto su primer uso en el mundo.
+• Interpretación: una lectura posible de la forma, el sonido o el valor cultural de la expresión. Puede ser sugerente sin ser una etimología demostrada.
+• Tradición comunitaria: práctica que un grupo adopta y reconoce en un contexto concreto. Se documenta con testimonios, fechas y alcance; no se atribuye a todas las personas que usan la expresión.
+• Mitología de Ozi Ozi: relato ficticio creado para jugar con el concepto. Su valor puede ser poético o humorístico; no se presenta como historia real.
+
+En el texto, «propuesta» señala una convención que esta enciclopedia recomienda o inventa para organizar el uso. «No documentado aquí» no significa que sea imposible que exista una fuente; significa que no se afirma sin evidencia identificable. Imaginar no es falsear: la ficción solo necesita llevar una etiqueta honesta.
 
 ÍNDICE
 
-1. Definición
-2. Origen: constancia, interpretación y mito
-3. Filosofía
-4. Usos cotidianos
-5. Cultura e identidad
-6. Variaciones y pronunciación
-7. Diccionario
-8. Reglas fundamentales
-9. Aplicaciones
-10. Manifiesto Ozi Ozi
-11. Expansión y preservación
-12. Conclusión
+I.  El concepto
+II. Etimología, sonido e interpretación lingüística
+III. Historia: fuentes, límites y cronología
+IV. Mitología ficticia
+V. Filosofía Ozi Ozi
+VI. Código ético
+VII. Gramática y escritura
+VIII. Clasificación de los usos
+IX. Diccionario
+X. Simbolismo, identidad y tradiciones
+XI. Tecnología, programación e informática
+XII. Ozi Ozi en Internet
+XIII. Preguntas frecuentes
+XIV. Principios universales
+XV. Manifiesto definitivo
+XVI. Conclusión y nota de preservación
 
-1. DEFINICIÓN
+I. EL CONCEPTO
 
-Ozi Ozi es una expresión y un concepto cultural abierto que nombra una disposición ante el mundo: curiosidad sin solemnidad excesiva, juego con intención, creatividad compartida y la capacidad de convertir un momento ordinario en una pequeña ocasión para conectar. Puede ser saludo, despedida, respuesta, lema, nombre de una actitud o, sencillamente, dos palabras que hacen sonreír antes de que nadie haya explicado por qué.
+1. Definición de trabajo
 
-Su significado no se agota en una traducción de diccionario. Ozi Ozi funciona por contexto, tono y acuerdo entre quienes lo usan. A veces quiere decir «hola, aquí estoy»; otras, «todo bien», «vamos a intentarlo», «qué situación tan extraña» o «no tengo una respuesta elegante, pero sigo presente». En ocasiones no significa nada más que Ozi Ozi, y eso basta. No es un defecto semántico: es una de sus libertades.
+Ozi Ozi es una expresión repetida y un concepto cultural abierto que puede usarse como saludo, respuesta, despedida, exclamación, lema o gesto lúdico de reconocimiento. En esta enciclopedia nombra además una disposición: curiosidad, creatividad compartida, humor no cruel y voluntad de estar presente sin fingir que se sabe lo que no se sabe.
 
-La repetición forma parte de su identidad. El segundo Ozi no corrige al primero ni lo convierte en una contraseña. Lo acompaña, lo amplifica y le da un ritmo reconocible. La primera aparición abre una puerta; la segunda deja una silla para que alguien se siente. Esa imagen es poética, no una regla gramatical oficial.
+Su significado depende del contexto, del tono y del acuerdo entre quienes conversan. «Ozi Ozi» puede decir «hola», «te escucho», «vamos», «esto salió raro», «qué bueno verte» o «no tengo una frase brillante, pero aquí estoy». En otro intercambio puede no tener una traducción más precisa que la propia expresión. La flexibilidad es parte de la propuesta cultural, no una prueba de que todo uso signifique cualquier cosa: para interpretar un caso particular importan quién lo dice, a quién, en qué situación y con qué intención aparente.
 
-Como marco cultural, Ozi Ozi invita a:
+La repetición da a la forma un ritmo reconocible. Una lectura poética puede ver el primer Ozi como apertura y el segundo como respuesta o compañía. Esa imagen es una interpretación creativa, no una regla histórica ni una etimología.
 
-• acercarse con buena voluntad, sin exigir que toda conversación empiece de manera solemne;
-• crear juntos y atribuir con honestidad las ideas y aportes;
-• aceptar el absurdo siempre que no se use como excusa para humillar o excluir;
-• conservar la capacidad de decir «no sé» y distinguir una broma de un hecho;
-• permitir que el sentido evolucione mediante el uso, no mediante una autoridad imaginaria.
+2. Alcance y límites
 
-Ozi Ozi no es una religión, una lengua completa, una organización, una ideología política ni una obligación social. Tampoco es una licencia para ignorar límites personales. Es un concepto ligero en su forma y serio en la consideración de las personas.
+Ozi Ozi no es por sí mismo una lengua completa, una religión, una organización, una doctrina política, una contraseña universal ni una obligación social. Tampoco reemplaza consentimiento, comunicación clara, apoyo profesional o instrucciones técnicas. Usarlo no convierte automáticamente una broma en amable, una promesa en cumplida ni un error en resuelto.
 
-2. ORIGEN: CONSTANCIA, INTERPRETACIÓN Y MITO
+Este documento propone una identidad cultural con valores reconocibles y espacio para el desacuerdo. No reclama autoridad exclusiva sobre la expresión ni representa a toda persona que la escriba. El proyecto puede ordenar sus propios materiales; no puede decidir unilateralmente qué quiso decir cada hablante en cualquier época o lugar.
 
-2.1 Lo que puede afirmarse
+3. Núcleo y periferia
 
-Este documento no cuenta con fuentes independientes que acrediten un origen histórico anterior para la expresión Ozi Ozi. Por ello, no asigna una fecha antigua, una región, una lengua ancestral, una persona fundadora ni una cadena de transmisión que no estén documentadas. La fecha de esta edición señala la redacción de este texto, no el nacimiento absoluto del término. «Fundacional» describe este marco documental, no afirma que la expresión haya aparecido por primera vez aquí.
+Para ayudar a distinguir usos, se propone hablar de un núcleo y una periferia:
 
-La forma «Ozi Ozi» puede ser adoptada y cultivada desde aquí como identidad cultural. En este contexto, su definición, su filosofía y sus ejemplos son una propuesta fundacional contemporánea. Si en el futuro aparecen testimonios anteriores fiables, podrán estudiarse y citarse; no hace falta inventarlos para que el concepto tenga valor.
+• Núcleo conceptual: uso lúdico o afectuoso que busca abrir una interacción sin sacrificar honestidad, respeto ni libertad de respuesta.
+• Prácticas recomendadas: explicar las bromas a quienes llegan, reconocer autorías y no presentar mitos como fuentes.
+• Periferia creativa: pronunciaciones, grafías, personajes, memes, rituales locales y obras inspiradas por Ozi Ozi.
 
-2.2 Interpretación del nombre
+La periferia puede crecer y transformarse. El núcleo sirve como orientación, no como examen de pureza. Una variante que no aparezca en este documento no es por eso incorrecta ni ilegítima.
 
-La grafía permite varias lecturas sonoras. Una pronunciación sencilla en español es «ó-si ó-si», con el acento natural en la primera sílaba de cada repetición. También es posible decir «o-zi o-zi» con una z castellana o con el sonido que esa letra tenga en la variedad de español de quien habla. Ninguna de estas opciones establece una etimología. Asociar las letras con ideas como «origen», «zona», «optimismo» o «imaginación» puede ser un juego creativo posterior, pero no una explicación histórica probada.
+II. ETIMOLOGÍA, SONIDO E INTERPRETACIÓN LINGÜÍSTICA
 
-2.3 Mitología de Ozi Ozi
+1. Estado de la etimología
 
-Toda cultura inventada puede contarse una leyenda, siempre que se reconozca como leyenda. La mitología de Ozi Ozi propone que la expresión apareció cuando alguien quiso saludar a otra persona y, al quedarse sin una frase preparada, repitió una sílaba. La otra persona respondió repitiéndola también. Nadie recuerda quién fue primero; según la versión, estaban esperando el autobús, abriendo un archivo que no cargaba o contemplando una tostada que había caído del lado equivocado.
+La etimología de Ozi Ozi no está establecida por las fuentes reunidas en esta edición. No se atribuye aquí a una lengua antigua, a un pueblo, a una región, a una persona fundadora ni a un significado original comprobado. La forma escrita permite proponer interpretaciones, pero la semejanza de letras o sonidos con otras palabras no demuestra parentesco lingüístico.
 
-En otra variante, dos Ozi surgieron porque uno solo parecía demasiado tímido para cruzar la habitación. En una tercera, el segundo Ozi fue añadido por un comité imaginario que discutió durante seis horas y concluyó que una repetición era más eficiente que seis horas de comité. Estas historias son humor y folclore propuesto, no datos históricos.
+Una etimología rigurosa suele requerir testimonios datables, formas anteriores, una historia fonológica plausible, contextos de uso y comparación con lenguas pertinentes. Sin esas piezas, decir «Ozi significa X» como hecho sería exceder la evidencia. La posición correcta es sencilla: origen etimológico desconocido en esta documentación; interpretaciones posibles, sí; certeza inventada, no.
 
-La leyenda no busca cerrar el origen, sino enseñar una actitud: la cultura puede nacer de un gesto pequeño compartido. El mito de Ozi Ozi se mantiene saludable mientras no se confunda deliberadamente con evidencia documental.
+2. Observación gráfica
 
-2.4 CÓMO DOCUMENTAR NUEVOS HALLAZGOS
+La expresión se escribe habitualmente como dos secuencias iguales: «Ozi Ozi». La repetición visual puede sugerir simetría, eco, insistencia amistosa o juego rítmico. Esas asociaciones describen lo que una lectora puede percibir en la forma; no revelan por sí mismas cómo nació ni qué quiso decir su primer usuario.
 
-Si aparece un uso anterior, registra la fuente original, su fecha verificable, el contexto y la forma exacta de la expresión. Una captura sin procedencia puede orientar una búsqueda, pero por sí sola no demuestra fecha ni autoría. Los recuerdos personales y documentos sin fecha pueden conservarse como testimonios, indicando sus límites. Una formulación responsable sería: «La expresión aparece en esta fuente fechada; no sabemos si ese fue su primer uso». La prudencia deja espacio para encontrar algo real después.
+Las letras O, z e i pueden inspirar acrónimos o juegos —«optimismo, zona, imaginación», por ejemplo—, siempre que se presenten como expansiones creativas posteriores. No son la expansión oficial de un acrónimo ni la raíz histórica demostrada de la expresión.
 
-3. FILOSOFÍA
+3. Pronunciaciones posibles
 
-3.1 Presencia antes que espectáculo
+En español, una aproximación común podría ser «ó-si ó-si» en variedades donde z se pronuncia como s, o «ó-thi ó-thi» en variedades con distinción entre s y z/c ante i. También cabe una realización sonora de z como /z/ por influencia de otros idiomas o por elección personal. El acento y la vocal pueden variar según la lengua de quien habla.
 
-Ozi Ozi valora el estar disponible para el encuentro. No hace falta tener una ocurrencia brillante, una respuesta perfecta ni una personalidad de escenario. Un saludo sencillo puede ser suficiente. El concepto favorece la participación, no la competencia por ser la persona más ingeniosa de la sala.
+Estas transcripciones son orientativas, no prescriptivas. No existe aquí una grabación fundacional que permita declarar una pronunciación original. La variación regional no es un error. Para audio accesible, puede añadirse una guía fonética y, si es útil, una descripción o transcripción; no debe exigirse una voz específica para participar.
 
-3.2 Alegría con responsabilidad
+4. Lecturas interpretativas
 
-El humor abre espacios, reduce rigideces y permite mirar una dificultad desde otro ángulo. Pero no convierte el daño en algo aceptable. La broma deja de ser Ozi Ozi cuando su objetivo es degradar a alguien, cuando ignora una negativa o cuando quien la recibe no puede responder sin exponerse a represalias. Reír juntos es distinto de señalar a alguien para que todos rían de esa persona.
+Las siguientes son lecturas poéticas, no afirmaciones etimológicas:
 
-3.3 Curiosidad humilde
+• Eco: repetir puede reconocer lo recibido y devolverlo con calidez.
+• Pareja: dos unidades pueden representar encuentro entre voces, incluso cuando una persona se habla a sí misma con humor.
+• Ritmo: la repetición crea una cadencia fácil de recordar y de usar en conversación.
+• Espacio abierto: al no tener una traducción rígida en este proyecto, la expresión deja que el contexto concrete su función.
+• Absurdo productivo: una forma sonora inesperada puede interrumpir por un instante la rutina y abrir juego.
 
-Ozi Ozi recomienda preguntar antes de afirmar, escuchar antes de corregir y separar lo que se sabe de lo que se supone. En particular, una historia divertida sobre los orígenes no debe presentarse como una investigación histórica. La humildad no resta encanto: le evita al encanto ponerse una bata de laboratorio prestada.
+Ninguna interpretación debe convertirse en una prueba de autenticidad lingüística. El sonido inspira sentido; no certifica una genealogía.
 
-3.4 Creación compartida
+III. HISTORIA: FUENTES, LÍMITES Y CRONOLOGÍA
 
-Cada persona puede aportar una frase, un dibujo, una regla de juego o una interpretación. La contribución no borra las anteriores; se integra con crédito y contexto. Ozi Ozi no necesita un propietario del significado, aunque quienes crean materiales concretos sí pueden tener derechos sobre esas obras según la ley aplicable y la licencia correspondiente.
+1. Lo que está documentado aquí
 
-3.5 Sencillez fértil
+Esta enciclopedia documenta una propuesta contemporánea de concepto cultural: define usos, valores, ejemplos, vocabulario creativo y un marco editorial. El repositorio público CRISTOP-bot/Ozi-Ozi contiene, según su estado consultado para esta edición, los archivos `LICENSE` y `ozi ozi.txt`; el segundo desarrolla la propuesta y su historial puede revisarse en los commits del propio repositorio. Ese dato describe el proyecto y no demuestra cuándo apareció por primera vez la frase fuera de él.
 
-Una idea puede ser breve y, aun así, generar relatos, juegos, herramientas, conversaciones y comunidades. La sencillez de Ozi Ozi no obliga a que todo sea pequeño: significa que el punto de entrada es accesible. Se puede entrar con un «Ozi Ozi» y quedarse a escribir un ensayo de treinta páginas sobre una cuchara con ambiciones administrativas.
+No se incluyen en esta edición fuentes independientes suficientes para establecer una historia social anterior, una comunidad originaria, una fecha de acuñación universal o una transmisión continua. Por lo tanto, esos puntos permanecen desconocidos. Una búsqueda incompleta no prueba inexistencia: señala el límite de lo que se puede afirmar con honestidad.
 
-3.6 Libertad sin uniformidad
+2. Cómo investigar un testimonio
 
-La comunidad puede compartir un núcleo de valores y conservar diferencias de acento, tono y uso. No hay una pronunciación obligatoria ni un gesto secreto. Si alguien intenta vender una certificación oficial de pronunciación, se recomienda preguntar si también certifica cucharas.
+Ante un supuesto uso antiguo o independiente, conviene preguntar:
 
-4. USOS COTIDIANOS
+• ¿Cuál es la fuente primaria —publicación, grabación, archivo o mensaje— y se conserva íntegra?
+• ¿La fecha se puede verificar mediante el propio archivo o un registro externo fiable?
+• ¿La forma exacta aparece como «Ozi Ozi» o es una transcripción posterior?
+• ¿Qué significaba para las personas de ese contexto? ¿Hay evidencia o solo una interpretación actual?
+• ¿Quién produjo la fuente y cómo llegó hasta nosotros? ¿Está editada, recortada o recontextualizada?
+• ¿El hallazgo permite afirmar un uso en esa fecha, o realmente permite afirmar que ese fue el primer uso?
 
-Los ejemplos siguientes son propuestas de uso, no fórmulas obligatorias.
+Una captura sin procedencia puede ser una pista, no una datación concluyente. Un recuerdo personal es valioso como testimonio, pero debe etiquetarse como recuerdo. Una fuente fechada puede confirmar que la expresión existía, sin demostrar que no existiera antes. La historia suele empezar con «al menos desde esta evidencia», no con «sin duda nació exactamente aquí».
 
-4.1 Saludos
+3. Cronología de acontecimientos conocidos
 
-—Ozi Ozi, ¿cómo va el día?
-—Ozi Ozi. Un poco lento, pero ya encontró los zapatos.
+La cronología evita llenar vacíos con leyendas. Sus fechas son hitos del registro disponible y deben actualizarse solo cuando exista evidencia:
 
-En una conversación digital:
-«Ozi Ozi 👋 ¿tienes un minuto?»
+• Antes de la edición fundacional: origen lingüístico, primer uso, autoría inicial y trayectoria histórica de la expresión no establecidos por las fuentes de esta enciclopedia.
+• 2026: se redacta y publica en el repositorio CRISTOP-bot/Ozi-Ozi una propuesta enciclopédica que trata Ozi Ozi como concepto cultural abierto. La fecha de publicación corresponde al documento y a la historia del proyecto, no necesariamente al origen de la expresión.
+• 2026, edición ampliada: se reorganizan y profundizan la documentación, la metodología histórica, las interpretaciones lingüísticas, la ética y las aplicaciones. La cronología del repositorio permite comprobar las revisiones concretas.
 
-Como saludo de grupo:
-«Ozi Ozi, equipo. Ya llegué; el café todavía está negociando conmigo».
+No se añaden fechas ficticias a la columna de historia. Los relatos sobre una parada de autobús, una tostada o un comité pueden vivir en el capítulo de mitología, donde tienen licencia para llevar sombrero.
 
-El saludo puede ser cálido, breve o juguetón. No presupone confianza: en un contexto profesional puede usarse con moderación y respetando las convenciones del grupo. Si no conoces a la persona, acompáñalo de una presentación clara; no es una llave universal para la intimidad.
+4. Hechos, interpretación y tradición: comparación
 
-4.2 Respuestas
+Hecho documental: una frase aparece en un archivo fechable y accesible. Interpretación: alguien explica qué podría significar. Tradición comunitaria: un grupo repite una práctica y reconoce su valor local. Mitología: una narración inventada organiza imaginativamente un pasado. Estas categorías pueden relacionarse, pero no deben confundirse. Un mito puede inspirar una tradición real; eso no convierte retrospectivamente el mito en testimonio histórico.
 
-—¿Listos para empezar?
-—Ozi Ozi: listo para empezar y dispuesto a descubrir qué olvidamos.
+IV. MITOLOGÍA FICTICIA
 
-—Se cayó el servidor.
-—Ozi Ozi, primero revisamos el registro; luego culpamos a la luna, si el registro lo autoriza.
+1. Propósito del mito
 
-Como respuesta neutral, Ozi Ozi puede expresar disponibilidad sin prometer que todo está resuelto. No debe sustituir información esencial en una emergencia ni ocultar una respuesta que alguien necesita con claridad.
+La mitología de Ozi Ozi es ficción deliberada: ofrece relatos memorables para jugar con el concepto, no una explicación factual del origen. Su lugar en la enciclopedia es comparable al de un cuento fundacional moderno. Una historia puede comunicar cooperación o humor aun cuando nadie sostenga que ocurrió literalmente.
 
-4.3 Despedidas
+2. El primer eco: relato ficticio
 
-«Ozi Ozi por ahora; que tu próxima pestaña cargue a la primera».
+En una versión, dos personas coincidieron en una sala de espera. Una quería saludar, pero había olvidado todos los saludos excepto una sílaba. Dijo «Ozi». La otra, convencida de que la primera había iniciado un juego, respondió «Ozi». El silencio posterior duró exactamente lo que tarda una máquina expendedora en reconsiderar sus decisiones. El saludo quedó en dos partes porque, según el relato, una sola palabra no alcanzaba para invitar y hacer sitio a la vez.
 
-«Me voy. Ozi Ozi, nos leemos luego».
+Esta narración es mitología propuesta. No identifica a personas reales, no tiene fecha histórica y no debe citarse como etimología.
 
-«Buen viaje, buen descanso y Ozi Ozi en el bolsillo».
+3. El Consejo de la Tostada: leyenda humorística
 
-La despedida conserva la misma libertad del saludo: puede ser afectuosa o simplemente práctica. No exige que nadie permanezca conectado.
+Otra leyenda sostiene que Ozi Ozi fue debatido por un consejo de tostadas. La cuestión era si la repetición debía escribirse con guion. Tras horas de deliberación, el consejo se dividió entre «Ozi-Ozi» y «Ozi Ozi». Una tostada se cayó de la mesa y, al aterrizar, formó un espacio entre las palabras. La decisión fue aceptada por unanimidad, excepto por la mermelada, que se abstuvo por conflicto de interés.
 
-4.4 Ánimo y compañía
+La leyenda explica por qué el espacio funciona en esta edición, pero solo dentro del chiste. En la documentación real, la grafía preferida se elige por convención editorial, no por intervención de tostadas.
 
-«No hace falta resolverlo todo hoy. Ozi Ozi: damos el siguiente paso».
+4. Reglas para contar mitos
 
-«La presentación no salió perfecta, pero aprendimos qué cambiar. Eso también cuenta».
+Al publicar un relato, indícalo con expresiones como «mito ficticio», «leyenda humorística» o «relato imaginado». No fabriques testimonios ni atribuyas citas a personas reales. Puedes adaptar el relato, añadir personajes y crear nuevas versiones; si se convierte en obra concreta, conserva el crédito correspondiente y respeta su licencia. La creatividad gana cuando no necesita falsificar sus credenciales.
 
-Aquí el concepto acompaña, pero no invalida emociones difíciles. Decir «Ozi Ozi, no estés triste» puede sonar desconsiderado. Es mejor escuchar, preguntar qué ayudaría y dejar que la persona elija si quiere humor o silencio. Ante una pérdida, miedo o problema serio, responde primero a lo que la persona contó; la ligereza solo ayuda si encaja.
+V. FILOSOFÍA OZI OZI
 
-4.5 Lo absurdo cotidiano
+1. Presencia sin representación
 
-«El archivo se llama final_final_ahora_sí_7. Ozi Ozi ha registrado el incidente».
+Ozi Ozi propone acercarse sin representar un personaje perfecto. La persona puede llegar con una idea brillante o con sueño, con un saludo o con una pregunta. El encuentro no es un concurso de ingenio. En un equipo, esto significa que un mensaje sencillo como «no entendí esta parte, ¿la vemos?» puede encarnar mejor la filosofía que una cascada de chistes.
 
-«La planta parece estar mirando el router. No sabemos qué negocian».
+2. Humor con responsabilidad
 
-El absurdo es una herramienta de juego, no una explicación de lo ocurrido. Los archivos siguen necesitando nombres razonables y las plantas no reemplazan a los técnicos de red, aunque a veces parezcan tener más paciencia.
+El humor puede rebajar tensiones, hacer visible lo absurdo y permitir que varias personas compartan una sorpresa. Pero la intención del emisor no es el único criterio: importa también el efecto, el contexto y la posibilidad de corregir el rumbo. Si alguien pide parar, insistir «pero era Ozi Ozi» no defiende el humor; lo usa como escudo contra la conversación.
 
-4.6 PAUSA Y DISPONIBILIDAD
+3. Curiosidad y humildad epistemológica
 
-Ozi Ozi puede acompañar una pausa, pero nadie está obligado a responder de inmediato ni a sostener una conversación por cortesía. Si hace falta una respuesta concreta, formula la pregunta directamente y acuerda un plazo razonable. Un saludo no equivale a consentimiento, disponibilidad ni aceptación de una invitación.
+La curiosidad pregunta «¿qué sabemos?» antes de convertir una intuición en dato. La humildad reconoce el límite de una fuente. Aplicadas a la historia, impiden inventar un fundador; aplicadas a la tecnología, impiden decir que algo compila sin ejecutarlo; aplicadas a las relaciones, permiten preguntar qué quiso decir la otra persona en vez de adjudicarle intenciones con certeza teatral.
 
-5. CULTURA E IDENTIDAD
+4. Repetición y reciprocidad
 
-Ozi Ozi puede crear un sentido de pertenencia alrededor de una práctica compartida: saludar, inventar, escuchar y construir sin exigir que todos sean iguales. La identidad que propone es participativa. No depende de nacionalidad, edad, idioma, profesión, plataforma ni de haber conocido una supuesta tradición secreta.
+La repetición de Ozi Ozi puede simbolizar un eco, una respuesta o la aceptación de un ritmo compartido. La reciprocidad no exige simetría perfecta: una persona puede saludar y otra responder con palabras distintas, o no responder todavía. El intercambio es una invitación, no un contrato. La pausa forma parte de la conversación tanto como la réplica.
 
-Una comunidad Ozi Ozi es, ante todo, un conjunto de personas que elige tratarse con respeto y aportar al significado común. Sus espacios pueden ser una conversación entre amistades, una comunidad de Internet, un club creativo, una página de documentación o un servidor donde alguien ha fijado como regla no convertir cada error tipográfico en juicio moral.
+5. Sencillez fértil
 
-La cultura no se mide por el número de camisetas, adhesivos o frases impresas. Se mide por las prácticas: si se reconoce a quienes contribuyen, si se corrigen los errores con honestidad, si las personas pueden entrar y salir libremente y si la diversión no se financia con la vergüenza de alguien.
+La forma breve no limita lo que puede inspirar. Una expresión puede dar lugar a un glosario, una obra visual, un juego, una discusión sobre fuentes o un pequeño ritual de bienvenida. La sencillez fértil no es vaguedad obligatoria: cuando se necesitan instrucciones, las instrucciones deben ser precisas; cuando se juega, el juego puede ser abierto.
 
-Ozi Ozi permite una identidad flexible: una persona puede usar la expresión mucho, poco o nada; puede participar con una palabra, una obra o una crítica. La pertenencia no debe depender de repetir un saludo. No usar Ozi Ozi no convierte a nadie en extraño, enemigo ni administrador de una tostadora.
+6. Libertad con responsabilidad
 
-Una comunidad puede hacerlo práctico: explicar las bromas internas a quienes llegan; dar crédito a las contribuciones; permitir desacuerdos y salidas sin represalias; publicar reglas accesibles y una vía clara para reportar acoso; y detener una broma cuando alguien pide que pare. La calidez no está solo en el saludo, sino también en la respuesta a ese límite.
+Ozi Ozi no pretende controlar todos los usos de la expresión. Las comunidades pueden establecer acuerdos locales y explicar sus convenciones, pero deben describir su alcance con honestidad. La libertad creativa no borra derechos de autor sobre obras concretas, límites interpersonales ni leyes aplicables. La tradición abierta no es ausencia de cuidado.
 
-6. VARIACIONES Y PRONUNCIACIÓN
+7. Identidad sin uniformidad
 
-6.1 Escritura
+La identidad Ozi Ozi no depende de una nacionalidad, una edad, una lengua, una plataforma, un acento o una pronunciación secreta. El sentido de pertenencia puede nacer del cuidado compartido y de la participación voluntaria. Una persona puede aportar una crítica o una ilustración, o no participar; ninguna opción la vuelve menos digna.
 
-• Ozi Ozi: forma recomendada para el nombre del concepto, con ambas palabras en mayúscula inicial.
-• ozi ozi: forma informal, adecuada para mensajes casuales.
-• OZI OZI: forma enfática, útil en carteles o gritos amistosos; conviene no abusar de ella en chats, donde puede parecer que el teclado está alarmado.
-• Ozi-Ozi: variante gráfica con guion, útil como nombre compuesto, etiqueta o marca de una obra concreta.
-• Ozi, ozi: repetición con pausa, que sugiere un ritmo más conversacional.
+8. Fracaso como información, no como decoración
 
-Las variantes estilísticas no son rangos de pertenencia ni versiones «más auténticas».
+El optimismo Ozi Ozi no exige llamar «aprendizaje» a todo daño ni celebrar un sistema roto antes de repararlo. Puede ayudar a sostener el ánimo mientras se examinan los hechos. En software, por ejemplo, se puede bromear con el error y a la vez documentar la causa, corregirla y probar la solución. Un fallo no es una tragedia moral; tampoco desaparece porque le pongamos una carita sonriente.
 
-6.2 Pronunciación
+VI. CÓDIGO ÉTICO OZI OZI
 
-En español, pueden encontrarse «ó-si ó-si», «ó-zi ó-zi» o pronunciaciones locales de la letra z. La opción natural de cada hablante es válida. Puede escribirse una guía fonética aproximada como /ó-si ó-si/ para quien pronuncia z como s, sin declarar que esa sea la única pronunciación correcta.
+Este código es una propuesta para personas y comunidades que quieran practicar los valores descritos. No es una autoridad legal ni reemplaza normas de seguridad o políticas de cada espacio.
 
-6.3 Interpretación según el contexto
+1. Veracidad. Distingue lo comprobado, lo interpretado, lo recordado y lo inventado. Corrige una afirmación cuando una fuente nueva la contradice.
+2. Consentimiento y límites. Una invitación no obliga a responder. Respeta el silencio, la negativa y las peticiones de detener una broma.
+3. Cuidado. No uses el concepto para acoso, discriminación, humillación o presión. El humor compartido debe dejar espacio a quien lo recibe.
+4. Contexto. Si la situación es seria, atiende primero la necesidad real. No sustituyas una instrucción, advertencia o disculpa por un juego de palabras.
+5. Atribución. Reconoce a quienes aportan relatos, ilustraciones, definiciones, música, código y documentación. No presentes una contribución ajena como propia.
+6. Apertura. Acepta variantes de pronunciación, escritura e interpretación. Corrige solo cuando sea útil para la comprensión, no para vigilar una supuesta pureza.
+7. Accesibilidad. Ofrece alternativas a voz, color, movimiento o velocidad cuando una actividad dependa de esas funciones. No hagas del acceso una prueba de pertenencia.
+8. Privacidad. No publiques mensajes privados ni datos personales para ganar una discusión, crear un meme o demostrar que una persona participa.
+9. Responsabilidad tecnológica. Protege a las personas usuarias; no llames «broma» a una práctica insegura ni «funcional» a una herramienta que no se verificó.
+10. Revisión. Permite crítica y mejora. Una convención puede cambiar; documenta el cambio sin borrar que antes existía otra.
+11. Proporción. No conviertas cada saludo en ceremonia ni cada desacuerdo en cisma doctrinal. La escala debe corresponder a la situación.
+12. Salida libre. Cualquiera puede dejar una conversación o comunidad sin castigo, acoso ni exigencia de explicar su decisión.
 
-Como saludo, abre una conversación. Como respuesta, expresa disposición o complicidad. Como exclamación, marca sorpresa o humor. Como lema, recuerda los valores de convivencia. Como nombre de proyecto, identifica una creación específica. Como palabra sin explicación, puede funcionar como juego interno entre quienes comparten el contexto.
+VII. GRAMÁTICA Y REGLAS DE ESCRITURA
 
-El tono importa. Un «Ozi Ozi» afectuoso puede invitar; uno enviado después de una petición seria para evitar responder puede resultar evasivo. La expresión no convierte automáticamente cualquier uso en amable.
+1. Forma recomendada
 
-7. DICCIONARIO
+Para nombrar el concepto en español, esta edición recomienda «Ozi Ozi»: dos palabras separadas y con iniciales mayúsculas. En mensajes informales puede escribirse «ozi ozi». En un título, etiqueta o nombre de obra puede preferirse otra capitalización, siempre que el contexto lo haga claro.
 
-Ozi Ozi: expresión y concepto cultural abierto; saludo, respuesta o gesto de buena voluntad según el contexto.
+La forma recomendada es una convención editorial, no una norma dictada por una institución lingüística.
 
-Ozi: una unidad de la expresión. En el juego poético, es una invitación breve. No se le atribuye un significado lingüístico antiguo comprobado.
+2. Variantes gráficas
 
-Doble Ozi: la repetición completa. Evoca reciprocidad: alguien llama y alguien responde, aunque ambas voces a veces sean la misma persona buscando el botón de enviar.
+• Ozi Ozi: forma de referencia del concepto.
+• ozi ozi: uso informal, especialmente en chat.
+• OZI OZI: énfasis visual; en mensajes puede parecer que se está gritando.
+• Ozi-Ozi: variante compuesta estilística para títulos, marcas o nombres de obra.
+• Ozi, Ozi: dos emisiones separadas por una pausa; puede sugerir llamado y respuesta.
+• Ozi… Ozi: pausa dramática, generalmente reservada para humor, teatro o el momento en que el wifi decide meditar.
 
-Oziar: verbo informal propuesto: usar Ozi Ozi para abrir un intercambio, aliviar una rigidez o dar un matiz lúdico. Ejemplo: «Ozié el chat del equipo antes de compartir el boceto».
+No se deduce una diferencia doctrinal universal de la puntuación. Si una comunidad usa variantes con significados propios, puede documentar esa práctica como tradición local.
 
-Oziado: adjetivo humorístico para algo que adquirió una capa inesperada de calidez o absurdo. Ejemplo: «El informe quedó bastante Oziado: riguroso, pero con un diagrama de una papa».
+3. Categoría y función en la oración
 
-Oziísmo: nombre opcional de la filosofía cultural descrita aquí: curiosidad, juego responsable, generosidad y honestidad.
+Ozi Ozi puede funcionar como interjección independiente: «¡Ozi Ozi, ya llegaste!». Puede aparecer como fórmula de saludo: «Ozi Ozi, equipo». Puede usarse como nombre mencionado: «Escribí “Ozi Ozi” en el cartel». En la propuesta léxica de esta enciclopedia puede derivarse el verbo informal «ozear» o el adjetivo «oziado», pero esas formas son neologismos creativos, no vocabulario normativo del español.
 
-Oziario: colección imaginaria o real de usos, variantes, historias y ejemplos de Ozi Ozi. Un oziario serio distingue testimonios de ficción.
+4. Puntuación y tono
 
-Ozi-eco: respuesta que devuelve la expresión para reconocer el saludo. Ejemplo: «Ozi Ozi» — «Ozi Ozi de vuelta».
+Los signos de exclamación intensifican: «¡Ozi Ozi!». Una coma permite continuar el enunciado: «Ozi Ozi, ¿cómo te fue?». Un punto puede cerrar un saludo breve. Los puntos suspensivos sugieren pausa y deben usarse con cuidado si podrían leerse como sarcasmo. La puntuación aclara la intención, aunque no puede reemplazar todo el contexto.
 
-Ozi-pausa: momento en que se permite no responder de inmediato. Ozi Ozi no es una obligación de disponibilidad permanente.
+5. Mayúsculas, diacríticos y traducción
 
-Ozi-absurdo: humor deliberadamente ilógico, pero no cruel. Ejemplo: «El lunes fue elegido presidente de los calcetines desaparecidos».
+La forma de referencia no lleva tilde escrita. Una guía fonética con acentos —«ó-si»— sirve únicamente para orientar la pronunciación y no modifica la grafía recomendada. Al traducir, se puede conservar Ozi Ozi como nombre o explicar su función; no es necesario fabricar un equivalente literal si no lo hay.
 
-Ozi de bolsillo: versión mínima que acompaña un día difícil: un saludo, una respiración, un siguiente paso. No sustituye ayuda profesional o apoyo urgente cuando se necesitan.
+6. Regla de claridad
 
-Ozi-señal: marca visual o sonora que una comunidad concreta elige; no hay un símbolo universal obligatorio.
+Si Ozi Ozi aparece en una instrucción importante, aclara el contenido literal. «Ozi Ozi, reinicia el servidor» puede ser amistoso; por sí solo no especifica qué servicio, qué impacto ni si hay autorización. En documentación crítica, la precisión gana a la estética.
 
-Ozi-contexto: explicación breve de un uso local para quienes llegan nuevos. Ejemplo: «Aquí usamos Ozi Ozi como saludo; no hace falta responder igual».
+VIII. CLASIFICACIÓN DE LOS USOS
 
-Ozi-documentado: afirmación acompañada por una fuente comprobable que permite a otras personas revisar de dónde procede. No significa verdad definitiva.
+La clasificación siguiente es descriptiva y abierta. Una misma aparición puede pertenecer a más de una clase.
 
-8. REGLAS FUNDAMENTALES
+1. Ozi-saludo: abre el contacto. Ejemplo: «Ozi Ozi, ¿tienes un minuto?» Su función es iniciar, no reclamar atención inmediata.
+2. Ozi-eco: devuelve el saludo o reconoce que fue recibido. «Ozi Ozi de vuelta». No es una respuesta obligatoria.
+3. Ozi-bienvenida: hace explícito que alguien puede integrarse. Es especialmente útil cuando viene acompañado de orientación concreta, no solo de un mensaje interno que la persona nueva no entiende.
+4. Ozi-despedida: cierra con calidez. «Ozi Ozi por hoy; seguimos mañana». No implica una promesa de volver si no se formula como tal.
+5. Ozi-ánimo: expresa compañía ante un reto. Debe acompañar la escucha, no cancelar el problema.
+6. Ozi-absurdo: introduce humor ilógico sin convertir a una persona en blanco de la burla. «El calendario pidió vacaciones del calendario».
+7. Ozi-reflexivo: pausa para preguntar qué se sabe, qué se supone y qué se desea hacer. Su tono puede ser serio.
+8. Ozi-creativo: motivo para producir una obra, juego, imagen, poema o variación. Debe distinguirse el concepto de los derechos de cada obra concreta.
+9. Ozi-técnico: uso en nombres, mensajes o documentación tecnológica. No reemplaza especificaciones, controles de seguridad o pruebas.
+10. Ozi-memético: formato reproducible de Internet. Su sentido puede cambiar al circular y conviene conservar contexto cuando se atribuyen hechos.
+11. Ozi-mítico: uso dentro de relatos ficticios explícitamente presentados como tales.
+12. Ozi-silencio: decisión de no responder o hacer una pausa. Se incluye para recordar que una cultura de saludo no elimina el derecho a desconectarse.
 
-1. Sé honesto sobre el origen. No inventes documentos, fechas, pueblos, fundadores o etimologías y los presentes como hechos. La mitología es bienvenida cuando se etiqueta como tal.
-2. Usa la expresión con intención. Puede ser saludo, juego o lema; no la uses para manipular, presionar o disfrazar una falta de respuesta.
-3. Respeta el contexto. En una conversación seria, atiende primero el asunto real. El humor puede acompañar, no tapar la información que alguien necesita.
-4. Cuida a las personas. No conviertas el concepto en excusa para acoso, insultos, discriminación o burlas insistentes.
-5. Acepta variaciones. No corrijas acentos ni escrituras casuales como si existiera una academia oficial.
-6. Da crédito. Si alguien crea una historia, ilustración, juego o definición concreta, reconoce su aporte y respeta las condiciones de uso de esa obra.
-7. No impongas pertenencia. Nadie tiene que usar Ozi Ozi, demostrar conocimiento o pagar para ser parte de una comunidad.
-8. Diferencia idea y obra. El concepto cultural puede inspirar nuevas creaciones; el texto, el arte, el software y otros materiales tienen sus propios autores y licencias.
-9. Permite la crítica. Una comunidad que no puede revisar sus costumbres termina tratando un chiste como constitución y una constitución como chiste.
-10. Mantén la puerta abierta. Ozi Ozi funciona mejor como invitación que como contraseña.
+IX. DICCIONARIO DE OZI OZI
 
-9. APLICACIONES
+Las entradas siguientes pertenecen al vocabulario propuesto en este documento. No se presentan como palabras históricas de una lengua independiente.
 
-9.1 Tecnología y programación
+Ozi Ozi: expresión repetida y concepto cultural abierto; su función depende del contexto.
 
-En un proyecto de software, Ozi Ozi puede ser el nombre de una aplicación, una comunidad, una biblioteca o una convención interna. El nombre no define la arquitectura ni reemplaza la documentación. Un sistema llamado Ozi Ozi todavía necesita requisitos, pruebas, seguridad, accesibilidad y un archivo de licencia coherente.
+Ozi: unidad individual de la repetición. En la lectura poética puede sugerir una invitación breve; no se conoce aquí un significado etimológico probado.
 
-Como gesto de equipo, puede usarse para reconocer avances pequeños: «Ozi Ozi, el error ya tiene una prueba de regresión». La celebración no debe ocultar fallos pendientes ni afirmar que algo funciona si no se probó. El optimismo es mejor cuando compila, y más aún cuando también pasa las pruebas.
+Doble Ozi: la expresión completa, con las dos unidades. Puede leerse como eco o compañía.
 
-En documentación técnica, es razonable reservar Ozi Ozi para ejemplos, títulos o mensajes de bienvenida. Las instrucciones críticas deben ser claras. No reemplaces «haz una copia de seguridad» por «Ozi Ozi el disco» a menos que el usuario ya sepa exactamente qué hacer y el disco haya firmado el consentimiento. Si el nombre identifica un producto o proyecto, comprueba posibles conflictos de marca, dominio o repositorio. Este documento no constituye una búsqueda legal ni concede derechos sobre nombres ajenos.
+Oziar: verbo informal propuesto: emplear Ozi Ozi o añadir a una interacción un gesto de juego responsable. «Oziamos el canal con un saludo antes de revisar el diseño».
 
-9.2 Videojuegos
+Oziado / oziada: adjetivo humorístico para algo con un matiz inesperadamente cálido o absurdo. «El informe quedó oziado: riguroso y con una papa en el diagrama».
 
-Ozi Ozi puede aparecer como saludo entre personajes, gesto de cooperación, emote, frase secreta opcional, nombre de un objeto o regla de un juego. Una misión podría pedir a los jugadores que devuelvan un saludo para abrir una puerta; esa mecánica funciona mejor si no excluye a quienes no puedan usar voz o chat. Añadir alternativas accesibles —texto, icono o control— hace que la broma sea jugable para más personas.
+Oziísmo: nombre propuesto para la filosofía cultural descrita aquí: curiosidad, honestidad, creatividad, humor cuidadoso y libertad.
 
-Como estética narrativa, el concepto puede acompañar un mundo donde los personajes convierten fallos en oportunidades de exploración. No significa que todo problema de diseño sea encantador: los controles deben responder, los guardados conservarse y el jefe final no debería desaparecer porque oyó un chiste.
+Oziario: colección de usos, obras, testimonios, variantes y relatos. Un oziario documental debería indicar fuentes y separar testimonios de ficción.
 
-9.3 Conversaciones
+Ozi-eco: respuesta que devuelve o reconoce la expresión.
 
-Ozi Ozi puede romper el hielo, reconocer a alguien, cerrar un intercambio o suavizar una situación cotidiana. En mensajes de trabajo, acompáñalo de la información necesaria. En una conversación íntima, pregunta si la otra persona quiere una broma, una solución o simplemente que la escuches.
+Ozi-pausa: espacio en que alguien no responde inmediatamente. No se interpreta automáticamente como rechazo ni como aceptación.
 
-9.4 Cultura de Internet
+Ozi de bolsillo: gesto mínimo de compañía —un saludo, una respiración, un paso posible— en un momento difícil; no reemplaza ayuda urgente o profesional cuando se requiere.
 
-En redes, Ozi Ozi puede convertirse en etiqueta, meme, saludo comunitario, formato de respuesta, animación o reto creativo. La repetición digital facilita que una frase viaje, pero también que se saque de contexto. Conviene explicar el significado cuando una audiencia nueva lo necesite y no atribuir a la comunidad conductas que no ha expresado.
+Ozi-contexto: explicación local para nuevas personas: «En este grupo usamos Ozi Ozi como saludo; puedes responder como quieras».
 
-Si una publicación se vuelve popular, eso no prueba un origen ancestral ni otorga automáticamente autoridad sobre el concepto. La popularidad mide circulación, no antigüedad, verdad o consentimiento. No publiques conversaciones privadas para probar que alguien «Oziaba»; ofrece alternativas de texto a actividades de voz y modera conductas dañinas sin pretender controlar todos los usos de la expresión en Internet.
+Ozi-señal: símbolo, sonido o gesto adoptado por una comunidad específica. No existe en esta propuesta un emblema universal obligatorio.
 
-9.5 Educación y creatividad
+Ozi-documentado: afirmación acompañada de una fuente revisable. No significa infalible, sino verificable en su procedencia.
 
-En talleres, Ozi Ozi puede servir como ejercicio para inventar definiciones, construir un glosario o escribir mitos claramente ficticios. El aprendizaje está en crear y revisar: una buena historia puede coexistir con una nota que diga «esto lo imaginamos». Así se enseña que la imaginación no necesita hacerse pasar por historia para ser memorable.
+Ozi-mito: relato inventado y etiquetado como ficción.
 
-10. MANIFIESTO OZI OZI
+Ozi-ruido: exceso de variaciones, notificaciones o chistes que dificulta entender el mensaje principal. «Menos Ozi-ruido y más enlace al archivo, por favor».
 
-Creemos en los encuentros que empiezan con una palabra sencilla.
+Ozi-cuidado: práctica de preguntar, escuchar y respetar límites antes de insistir en el humor.
 
-Creemos que la alegría puede ser seria en sus consecuencias sin volverse solemne en cada momento.
+Ozi-verdad: recordatorio humorístico de que una historia bonita no se convierte en fuente por rimar bien.
 
-Creemos que nadie tiene que saberlo todo para participar, y que decir «no sé» es una forma de cuidar la verdad.
+X. SIMBOLISMO, IDENTIDAD Y TRADICIONES
 
-Creemos que el absurdo tiene espacio, siempre que no se use para humillar, excluir o silenciar.
+1. Símbolos posibles
 
-Creemos que las historias inventadas pueden ser valiosas cuando se presentan como historias inventadas.
+La repetición es el símbolo más inmediato: dos formas parecidas colocadas en diálogo. Puede representarse con dos círculos, dos ondas, dos globos de conversación o un eco visual. Son propuestas gráficas; ninguna es emblema oficial universal. Un símbolo puede facilitar reconocimiento, pero no garantiza que quienes lo vean compartan la misma interpretación.
 
-Creemos en las variaciones de voz, acento, escritura y significado. La diversidad de uso no es una falla que haya que corregir.
+2. Identidad compartida
 
-Creemos que las personas están antes que el chiste, la marca, el meme o la tradición.
+Ozi Ozi permite imaginar una comunidad basada en la práctica más que en una frontera. La identidad puede ser tenue y voluntaria: alguien reconoce el saludo, otro contribuye a una obra, otro lee el documento y discrepa. La comunidad no es menos real por no tener una única institución, pero sus formas de organización y sus tradiciones deben describirse con precisión y alcance limitado.
 
-Creemos en dar crédito a quienes crean y en respetar las licencias y los derechos aplicables a cada obra concreta.
+3. Tradiciones posibles, no históricas por defecto
 
-Creemos que una comunidad se construye por invitación y cuidado mutuo, no por pruebas de pureza ni contraseñas obligatorias.
+Un grupo puede crear costumbres actuales: empezar una reunión con un saludo opcional; publicar un «Ozi de la semana»; guardar un archivo de relatos ficticios; celebrar una corrección histórica como una mejora colectiva; o cerrar un taller con una ronda de agradecimientos. Mientras no haya evidencia de adopción concreta, estas son propuestas, no tradiciones ya consolidadas.
 
-Creemos que el futuro de Ozi Ozi no está predeterminado. Quienes lo usen pueden transformarlo, discutirlo y ampliarlo, siempre con honestidad sobre lo que saben y generosidad hacia quienes llegan después.
+Una tradición se documenta indicando quién la practica, desde cuándo existe evidencia, con qué frecuencia, qué significado le atribuye el grupo y si es voluntaria. «Lo hacemos en nuestro canal desde octubre» es distinto de «siempre se ha hecho así». La memoria colectiva gana precisión cuando conserva el tamaño real de su comunidad.
 
-Ante una pantalla, una mesa, un taller, una conversación o una tostada sospechosamente filosófica, ofrecemos una invitación: Ozi Ozi.
+4. Rituales de bienvenida responsables
 
-11. EXPANSIÓN Y PRESERVACIÓN
+Un ritual de bienvenida puede ofrecer opciones: decir Ozi Ozi, contestar con cualquier frase, usar texto, reaccionar con un símbolo o simplemente observar. No se debe pedir a una persona que revele datos privados, hable en público o acepte una broma para probar que pertenece. La hospitalidad propone una puerta abierta; no hace un examen de entrada.
 
-La expansión de Ozi Ozi puede ocurrir mediante conversaciones, obras artísticas, juegos, documentación y proyectos comunitarios. No necesita una oficina central ni una autoridad que apruebe cada palabra. Sin embargo, el crecimiento responsable sí requiere memoria: anotar quién creó qué, conservar versiones importantes y describir con claridad qué es interpretación, qué es testimonio y qué es ficción.
+5. Humor y pertenencia
 
-Para preservar el concepto sin congelarlo:
+Las bromas internas pueden estrechar vínculos, pero también crear fronteras invisibles. Para que el humor incluya, explica referencias, acepta que no todas las personas las encuentren graciosas y no uses «es parte de la cultura» como respuesta automática a una queja. Una comunidad no pierde identidad al escuchar; puede fortalecerla al corregir lo que contradice sus propios valores.
 
-• conservar la forma «Ozi Ozi» como referencia reconocible, sin prohibir variantes;
-• publicar historias de origen con etiquetas honestas, como «relato», «mitología» o «testimonio»;
-• permitir que la comunidad documente usos nuevos y discuta sus efectos;
-• hacer materiales accesibles, traducibles y utilizables por personas con distintas capacidades;
-• evitar afirmaciones de propiedad exclusiva sobre una expresión cultural por mera repetición;
-• aplicar licencias explícitas a las obras concretas que lo requieran y revisar su compatibilidad con las leyes pertinentes;
-• mantener archivos legibles y copias de respaldo, porque la memoria cultural también depende de que el disco duro no decida retirarse a una montaña.
+XI. TECNOLOGÍA, PROGRAMACIÓN E INFORMÁTICA
 
-La expansión no se mide únicamente en alcance. Una comunidad pequeña que cuida a sus integrantes puede encarnar mejor la filosofía que una tendencia enorme que solo repite la frase. El crecimiento sostenible admite pausas, cambios de nombre para proyectos específicos y desacuerdos. También admite que alguien se vaya sin ceremonia y vuelva después con una receta de sopa.
+1. Nombre no es especificación
 
-Una edición futura puede anotar su fecha, cambios de definición y fuentes nuevas sin reescribir retrospectivamente lo que se sabía antes. Las discrepancias no deben borrarse para fabricar unanimidad: pueden resumirse indicando qué se comparte y qué sigue abierto. Quien administra un espacio decide sus reglas locales, pero no habla automáticamente por todas las personas que usan la expresión.
+Ozi Ozi puede ser nombre de un programa, una biblioteca, un juego, un bot, una rama experimental o un proyecto educativo. El nombre no define qué hace el sistema ni concede seguridad, compatibilidad o calidad. Para que un proyecto técnico sea comprensible, debe describir propósito, usuarios, entradas, salidas, dependencias, riesgos, licencia y estado real.
 
-ALCANCE DE LA LICENCIA
+2. En programación
 
-La licencia MIT incluida acompaña los materiales del repositorio en los términos que establece su texto. No convierte una expresión cultural, los aportes de terceros ni sus obras independientes en propiedad exclusiva del repositorio. Antes de reutilizar materiales concretos, revisa su autoría, licencia y condiciones aplicables. La titularidad indicada en la licencia debe confirmarse por quien corresponda.
+En código, la expresión puede aparecer en nombres de ejemplo, mensajes de bienvenida, datos de prueba o un tema visual. Mantén identificadores descriptivos: `ozi_saludar()` podría ser razonable en un prototipo de comunidad, mientras que `ozi()` en una función crítica sin documentación deja a quien mantiene el sistema adivinando si saluda, sincroniza o borra la base de datos con entusiasmo.
 
-12. CONCLUSIÓN
+Los ejemplos deben ser explícitos y seguros. No ocultes una operación destructiva detrás de un comando juguetón. El humor pertenece a la interfaz cuando no oscurece consecuencias, y la documentación debe decir qué sucede realmente.
 
-Ozi Ozi es una invitación a hacer espacio para el encuentro: dos palabras repetidas, una idea compartida y la posibilidad de que cada persona aporte algo sin tener que fingir que conoce un pasado que no está documentado. Su significado vive en la relación entre quienes lo usan, en la claridad con que distinguen la historia de la imaginación y en el cuidado que practican al convertir el humor en cultura.
+3. Calidad y verificación
 
-Puede ser un saludo, un pequeño manifiesto, un nombre, un juego o una excusa para inventar un diccionario donde la tostada ocupa un cargo honorario. No necesita código para existir. Tampoco necesita solemnidad para importar. Necesita personas dispuestas a tratarse bien, crear con honestidad y dejar que una expresión sencilla se vuelva significativa sin dejar de ser sencilla.
+Una práctica Ozi Ozi de desarrollo responsable puede incluir:
 
-Ozi Ozi: que el sentido crezca, que la verdad no se disfrace y que, si el día se complica, al menos la tostada tenga un plan de contingencia.
+• definir el comportamiento esperado antes de afirmar que una función está terminada;
+• incluir pruebas que correspondan al riesgo y describir qué se ejecutó realmente;
+• registrar errores y limitaciones con claridad;
+• evitar dependencias innecesarias y respetar sus licencias;
+• proteger datos, credenciales y privacidad;
+• diseñar interfaces accesibles y mensajes entendibles;
+• separar demostraciones, prototipos y versiones listas para uso;
+• celebrar los avances sin exagerar resultados.
+
+La frase «ya funciona» debería significar algo verificable en el contexto del proyecto. Si solo se inspeccionó el código, di que se revisó; si se ejecutó una prueba, di cuál; si el entorno real no se comprobó, no presentes la comprobación como hecha. El entusiasmo puede acompañar la exactitud, no sustituirla.
+
+4. Interacción humano-computadora
+
+En una interfaz, Ozi Ozi podría aparecer como saludo opcional, nombre de perfil, estado de comunidad o microtexto. Conviene probar si se entiende sin contexto, permitir desactivarlo y no presentar mensajes cálidos cuando el sistema está reportando un riesgo serio. «Ozi Ozi, no pudimos guardar tu archivo» puede ser amistoso si lo acompaña una explicación útil y una ruta de recuperación; un tono alegre que minimiza una pérdida sería inadecuado.
+
+5. Seguridad e incidentes
+
+Una cultura de humor no debe suavizar alertas de seguridad hasta hacerlas invisibles. Si una cuenta fue comprometida, una acción es irreversible o hay riesgo de pérdida de datos, la prioridad es comunicar el impacto y las medidas. El Ozi puede aparecer después, cuando las personas estén informadas y sea apropiado. Ningún saludo autoriza a compartir una contraseña o a ejecutar código no revisado.
+
+6. Datos y privacidad
+
+No uses chats privados como conjunto de datos para entrenar, publicar o crear memes sin consentimiento y una base legítima. Evita incluir nombres, teléfonos, ubicaciones, credenciales y otros identificadores en ejemplos. Una comunidad técnica responsable hace que la seguridad sea parte de la cultura, no una sección aburrida que se deja para después.
+
+XII. OZI OZI EN LA CULTURA DE INTERNET
+
+1. Circulación y cambio de significado
+
+Internet permite que una frase viaje por memes, comentarios, transmisiones, juegos y comunidades. Al cambiar de espacio, puede adquirir significados distintos. Una publicación viral muestra circulación; no demuestra el origen histórico, el consenso general ni la representación de toda una comunidad.
+
+2. Memes y formatos
+
+Ozi Ozi podría aparecer como respuesta repetida, saludo de chat, plantilla de imagen, audio breve o broma sobre tareas cotidianas. Los formatos reutilizables favorecen la participación, pero también pueden borrar autoría y contexto. Cuando se conoce quién creó una obra concreta, atribúyela según sus condiciones; no supongas que una imagen popular carece de autor.
+
+3. Moderación y cuidado
+
+En una comunidad digital, conviene distinguir humor consensuado de hostigamiento repetido. Define reglas accesibles, un procedimiento de reporte y una respuesta proporcional. No conviertas la frase en permiso para etiquetar, inundar de mensajes o exigir respuesta. Si el meme incluye a una persona identificable, considera privacidad, consentimiento y consecuencias.
+
+4. Recomendaciones para publicar
+
+Explica Ozi Ozi cuando el público no tenga contexto; etiqueta la ficción; añade texto alternativo a imágenes importantes; ofrece subtítulos para audio o video; no publiques capturas privadas; y corrige atribuciones erróneas cuando se detecten. Si el chiste depende de que una audiencia crea una historia falsa, preséntala como ficción para que la broma no dependa del engaño.
+
+5. Tendencia y longevidad
+
+Una tendencia puede durar horas; una cultura requiere prácticas, memoria y relaciones. No hay obligación de convertir cada conversación en contenido. Ozi Ozi puede conservar su valor aunque no sea viral, y una pausa de publicaciones no significa que el concepto haya desaparecido. El algoritmo no es historiador, aunque con frecuencia opine con mucha confianza.
+
+XIII. PREGUNTAS FRECUENTES
+
+¿Ozi Ozi tiene un significado oficial?
+En esta enciclopedia tiene una definición de trabajo: expresión repetida y concepto cultural abierto. No se afirma que exista una autoridad lingüística universal que haya fijado un significado oficial.
+
+¿De dónde viene realmente?
+El origen etimológico e histórico no está establecido por las fuentes reunidas aquí. El documento describe una propuesta contemporánea y no inventa un origen real.
+
+¿Ozi significa algo en una lengua antigua?
+No se presenta evidencia de ello en esta edición. Cualquier afirmación concreta requiere fuentes lingüísticas y documentales; una semejanza sonora no basta.
+
+¿Cómo se pronuncia?
+Hay pronunciaciones posibles según la lengua y el acento de cada hablante; en español puede sonar aproximadamente «ó-si ó-si» o con el sonido local de z. No hay una pronunciación obligatoria establecida aquí.
+
+¿La forma correcta lleva guion?
+La forma editorial recomendada es «Ozi Ozi», con espacio. «Ozi-Ozi» puede usarse como variante estilística. El uso local de una comunidad puede diferir.
+
+¿Es una palabra de una lengua completa?
+No. Este proyecto la trata como expresión y concepto cultural, no como una lengua construida con gramática completa.
+
+¿Tengo que responder «Ozi Ozi» si alguien me saluda así?
+No. Puedes responder de cualquier manera, más tarde o no responder. El saludo no crea una obligación.
+
+¿Puedo inventar un mito o una tradición?
+Sí, como ficción o práctica nueva. Etiqueta el mito como ficticio y describe una tradición por su comunidad y evidencia, sin presentarla como antigua si no lo es.
+
+¿Ozi Ozi significa siempre alegría?
+No. El contexto puede darle un tono juguetón, afectuoso, irónico o neutral. No debe imponerse como respuesta alegre a una experiencia dolorosa.
+
+¿Puedo usar el concepto en un programa o juego?
+Puedes inspirarte en el concepto, pero revisa las licencias de obras concretas, los posibles conflictos de nombre y las leyes aplicables. La expresión cultural no sustituye una revisión legal de marca ni concede automáticamente derechos sobre materiales ajenos.
+
+¿MIT significa que toda la cultura Ozi Ozi pertenece al repositorio?
+No. La licencia acompaña los materiales del repositorio según su texto; no convierte por sí sola una expresión, el concepto general o aportes independientes de terceros en propiedad exclusiva. Revisa la licencia y titularidad de cada obra concreta.
+
+¿Puede cambiar este documento?
+Sí. La enciclopedia es una propuesta editorial revisable. Las mejoras deberían mantener su identidad, explicar los cambios y conservar la diferencia entre fuente, interpretación, tradición y ficción.
+
+¿Ozi Ozi necesita código?
+No. Puede existir como expresión, conversación, arte, juego o idea cultural. El software es una aplicación posible, no un requisito de existencia.
+
+XIV. PRINCIPIOS UNIVERSALES
+
+Estos principios se llaman «universales» en sentido aspiracional dentro de la propuesta, no porque todas las culturas o personas estén obligadas a compartirlos:
+
+1. La dignidad de las personas precede al chiste.
+2. Una afirmación histórica necesita evidencia proporcionada a lo que afirma.
+3. La interpretación puede ser creativa sin disfrazarse de hecho.
+4. La participación genuina es voluntaria.
+5. El humor es más fértil cuando no depende de la humillación.
+6. La claridad importa más que el ingenio cuando hay riesgo o instrucciones importantes.
+7. Las variantes no son fallos por ser diferentes.
+8. Las obras concretas merecen atribución y respeto de sus condiciones de uso.
+9. La accesibilidad permite que más personas participen en igualdad de condiciones.
+10. Una comunidad puede preservar su memoria sin congelar su significado.
+11. La crítica honesta es compatible con el afecto.
+12. Ningún concepto cultural vuelve innecesario escuchar a quienes lo viven de formas distintas.
+
+XV. MANIFIESTO DEFINITIVO
+
+Definitivo como formulación de esta edición; abierto a revisión por quienes creen y participan, no como decreto eterno.
+
+Ozi Ozi es una invitación, no una contraseña.
+
+Nos acercamos con curiosidad y dejamos espacio para que la otra persona responda —o no responda— libremente.
+
+Elegimos el humor que abre una puerta y rechazamos el que necesita convertir a alguien en blanco.
+
+Distinguimos el archivo del recuerdo, el recuerdo de la interpretación y la interpretación de la leyenda. No necesitamos inventar antigüedad para que una idea nueva importe.
+
+Afirmamos lo que sabemos, nombramos lo que ignoramos y cambiamos de opinión cuando la evidencia lo merece.
+
+Reconocemos la diversidad de voz, escritura, contexto y participación. No hay acento secreto ni examen de pertenencia.
+
+Creamos juntos y damos crédito. Respetamos las obras concretas, sus autores, sus licencias y los límites de las personas.
+
+En tecnología, cuidamos datos, explicamos riesgos, verificamos lo que afirmamos y nunca sustituimos una instrucción clara por un chiste confuso.
+
+En Internet, cuidamos el contexto, la privacidad y a quienes están detrás de cada pantalla. La viralidad no es un certificado de verdad.
+
+Preservamos las historias sin fingir que todas son hechos. Las tradiciones pueden nacer hoy; no necesitan ser antiguas para tener significado.
+
+Permitimos la crítica, la transformación, la pausa y la salida. Una comunidad viva no exige unanimidad para existir.
+
+Y cuando el día se vuelva solemne sin necesidad, cuando una conversación apenas empiece o cuando la tostada vuelva a presentar una candidatura inexplicable, podemos ofrecer dos palabras: Ozi Ozi.
+
+XVI. CONCLUSIÓN Y NOTA DE PRESERVACIÓN
+
+Ozi Ozi es aquí una forma pequeña con un horizonte amplio: una expresión repetida, un modo de abrir conversación y una invitación a construir sentido sin fingir que conocemos su pasado completo. La ausencia de una etimología establecida no es un vacío que haya que llenar con datos falsos. Es una pregunta abierta y una oportunidad para investigar, crear y documentar mejor.
+
+Su filosofía conecta juego con responsabilidad, identidad con libertad y memoria con evidencia. Sus usos pueden cambiar; su valor dependerá menos de cuántas veces aparezca la frase que de cómo se trata a las personas cuando aparece. Si el concepto logra que una comunidad sea más curiosa, honesta, accesible y amable sin volverse dogmática, habrá cumplido una tarea cultural concreta.
+
+Para futuras ediciones, conserva las fuentes y fechas, añade nuevas afirmaciones con procedencia, señala qué se modificó y evita borrar versiones anteriores cuando sean necesarias para comprender la historia del documento. Mantén separadas las tradiciones de grupos específicos y las propuestas generales. Revisa la titularidad y licencias de obras particulares antes de reutilizarlas; la presencia de una licencia en un repositorio no resuelve automáticamente derechos sobre materiales de terceros.
+
+Ozi Ozi no necesita código para existir. Puede empezar como un saludo, continuar como una conversación y quedarse como una idea que sabe reírse de sí misma sin dejar de respetar la verdad.
+
+Que el eco acompañe, que la evidencia tenga sitio y que toda tostada pueda apelar la decisión del consejo —por escrito y con migas debidamente archivadas.
