@@ -1,0 +1,5 @@
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. OZI-OZI.
+       PROCEDURE DIVISION.
+           DISPLAY "Ozi Ozi"
+           STOP RUN.

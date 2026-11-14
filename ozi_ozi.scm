@@ -1,0 +1,2 @@
+(display "Ozi Ozi")
+(newline)
