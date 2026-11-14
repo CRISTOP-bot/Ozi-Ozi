@@ -1,0 +1,5 @@
+MODULE OziOzi;
+IMPORT Out;
+BEGIN
+  Out.String("Ozi Ozi"); Out.Ln
+END OziOzi.

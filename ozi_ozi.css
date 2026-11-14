@@ -1,0 +1,4 @@
+/* Apply this class to an element to display the phrase. */
+.ozi-ozi::before {
+  content: "Ozi Ozi";
+}
