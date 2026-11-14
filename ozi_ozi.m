@@ -1,6 +1,8 @@
-#include <stdio.h>
+#import <Foundation/Foundation.h>
 
 int main(void) {
-    puts("Ozi Ozi");
+    @autoreleasepool {
+        puts("Ozi Ozi");
+    }
     return 0;
 }

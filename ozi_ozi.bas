@@ -1,0 +1,2 @@
+10 PRINT "Ozi Ozi"
+20 END

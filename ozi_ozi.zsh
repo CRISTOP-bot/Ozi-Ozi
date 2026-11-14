@@ -1,0 +1,1 @@
+print -r -- "Ozi Ozi"
